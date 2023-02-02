@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Caj3E8lvWNefbNldDCRQm2JU2WtT9i6iU2cNS43FAkp8eHqRnT9oeCjcwMLG8E7Xye2urTyR+ig9fK152ylziA==",
+  "dgSpecHash": "XPVej5+SRf3/zDXxFNFOYVtTDTBIqrR4YIw7Hf4MuRxNTLmyYmMafZHZE3VfmeIOF20gdZlNYYw6R+UztWooNg==",
   "success": true,
-  "projectFilePath": "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/tbs/dotnet-sample/hello-world/hello-world.csproj",
+  "projectFilePath": "/Users/aakinsanya/Library/CloudStorage/OneDrive-VMware,Inc/vindicated/tbs/demo/hello-world-dotnet/hello-world.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
